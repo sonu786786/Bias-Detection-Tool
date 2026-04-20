@@ -105,9 +105,7 @@ The notebook produces visualizations and quantitative metrics that highlight:
 ## 👤 Author
 
 **Sonu**
-- GitHub: [@sonu786786](https://github.com/sonu786786)
-**Aditya**
-- Github: https://github.com/i23ma012-droid
+- GitHub: [@sonu786786](https://github.com/sonu786786) & [@i23ma012-droid](https://github.com/i23ma012-droid)
 ---
 
 > ⭐ If you find this project useful, please consider giving it a star on GitHub!
